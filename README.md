@@ -16,3 +16,6 @@ https://zamlos.com/remedilerinruhu/frontend/sepet.php
 
 
 https://zamlos.com/remedilerinruhu/frontend/odeme.php
+
+
+https://zamlos.com/remedilerinruhu/frontend/saticilar.php
