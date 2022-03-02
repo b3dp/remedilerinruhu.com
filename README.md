@@ -19,3 +19,6 @@ https://zamlos.com/remedilerinruhu/frontend/odeme.php
 
 
 https://zamlos.com/remedilerinruhu/frontend/saticilar.php
+
+
+https://zamlos.com/remedilerinruhu/frontend/satici.php
