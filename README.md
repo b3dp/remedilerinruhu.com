@@ -34,3 +34,15 @@ https://zamlos.com/remedilerinruhu/frontend/blog.php
 
 
 https://zamlos.com/remedilerinruhu/frontend/blog-yazi.php
+
+
+https://zamlos.com/remedilerinruhu/frontend/giris.php
+
+
+https://zamlos.com/remedilerinruhu/frontend/kayit.php
+
+
+https://zamlos.com/remedilerinruhu/frontend/sifremi-unuttum.php
+
+
+
