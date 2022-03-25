@@ -1,7 +1,13 @@
 # remedilerinruhu.com
+https://vmi788956.contaboserver.net:8443/login_up.php?success_redirect_url=%2F
+
+admin
+
+9v0TBxWXIOjzU29ltjYWgRF
+
+
+<hr>
 Online Satış, Akademi, Blog
-
-
 
 https://zamlos.com/remedilerinruhu/frontend/
 
