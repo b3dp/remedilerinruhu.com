@@ -9,49 +9,50 @@ admin
 <hr>
 Online Satış, Akademi, Blog
 
-https://zamlos.com/remedilerinruhu/frontend/
+
+https://remedi.site/frontend/
 
 
-https://zamlos.com/remedilerinruhu/frontend/kategori.php
+https://remedi.site/frontend/kategori.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/urun.php
+https://remedi.site/frontend/urun.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/sepet.php
+https://remedi.site/frontend/sepet.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/odeme.php
+https://remedi.site/frontend/odeme.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/saticilar.php
+https://remedi.site/frontend/saticilar.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/satici.php
+https://remedi.site/frontend/satici.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/sayfa.php
+https://remedi.site/frontend/sayfa.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/sss.php
+https://remedi.site/frontend/sss.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/blog.php
+https://remedi.site/frontend/blog.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/blog-yazi.php
+https://remedi.site/frontend/blog-yazi.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/giris.php
+https://remedi.site/frontend/giris.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/kayit.php
+https://remedi.site/frontend/kayit.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/sifremi-unuttum.php
+https://remedi.site/frontend/sifremi-unuttum.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/satici-kayit.php
+https://remedi.site/frontend/satici-kayit.php
 
 
-https://zamlos.com/remedilerinruhu/frontend/hesabim.php
+https://remedi.site/frontend/hesabim.php
