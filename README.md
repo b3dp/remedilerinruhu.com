@@ -15,7 +15,6 @@ Online Satış, Akademi, Blog
 
 # backend - frontend
 
-https://remedi.site/backend-frontend/
 
 
 
