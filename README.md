@@ -9,6 +9,17 @@ admin
 <hr>
 Online Satış, Akademi, Blog
 
+<br>
+
+
+
+# backend - frontend
+
+https://remedi.site/backend-frontend/
+
+
+
+# frontend - frontend
 
 https://remedi.site/frontend/
 
