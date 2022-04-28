@@ -1,0 +1,129 @@
+
+
+.header-style-1 .search-style-2 form input{
+    max-width: 100%;
+}
+
+.header-style-1 .search-style-2 form{
+    max-width: 90%;
+    margin-right: 10px;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+    .search-style-2 form input {
+        width: 100%;
+    }
+}
+
+.hotline p {
+    font-size: 18px;
+    margin-top: 22px;
+}
+
+
+.hotline.header-dergi,
+.hotline.header-akademi {
+    position: relative;
+}
+
+.hotline.header-dergi .badge,
+.hotline.header-akademi .badge{
+    position: absolute;
+    top:0; right: 0;
+}
+
+
+.hotline.header-dergi {}
+.hotline.header-akademi {
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.footer-mid .widget-title{
+    font-size: 18px;
+}
+
+
+
+.hotline.footer-dergi,
+.hotline.footer-akademi {
+    position: relative;
+}
+
+
+.hotline.footer-dergi .badge,
+.hotline.footer-akademi .badge{
+    position: absolute;
+    top:0; left: 30px;
+}
+
+footer .hotline{
+    min-width: auto;
+}
+
+.invoice-1 .invoice-info-buttom .table .invoice-1 .invoice-info-buttom .table tr, .table tr{
+    border: 0;
+}
+
+.product-cart-wrap .product-content-wrap{
+    padding: 0 10px 10px 10px;
+}
+
+.product-cart-wrap .product-card-bottom .add-cart .add{
+    padding: 5px;
+}
+
+.product-cart-wrap .product-content-wrap .product-price{
+    width: 40%;
+}
+.custome-radio input[type="radio"] + .form-check-label::after{
+    top:8px;
+}
+
+.social-icons li a{
+    width: 20px;
+    height: 20px;
+}
+
+
+.header-style-1 .hotline p,
+.text-brand,
+.main-menu > nav > ul > li > a.active{
+    color: #081244 !important;
+}
+
+
+.form-group input{
+    border: 1px solid #e9dfda !important;
+    color: #081244 !important;
+}
+
+
+.form-group input:focus{
+    border-color: #BCE3C9 !important;
+}
+
+.custome-checkbox input[type="checkbox"]:checked + .form-check-label::before{
+    background-color: #d4bdb2 !important;
+    border-color: #d4bdb2 !important;
+    color: #081244
+}
+
+.custome-checkbox input[type="checkbox"] + .form-check-label::after{
+    border-color: #081244 !important;
+}
+
+
+.main-menu > nav > ul > li > a{
+    font-weight: 600;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .font-heading, .display-1, .display-2, .heading-sm-1{
+    font-family: 'Playfair Display', serif;
+}
+.product-cart-wrap .product-content-wrap .product-price span{
+    font-weight: 600;
+}
